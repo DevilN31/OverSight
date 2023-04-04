@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "com.microsoft.mixedreality.toolkit.examples": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.3.tgz",
+      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
-        "com.microsoft.mixedreality.toolkit.foundation": "2.8.3",
-        "com.microsoft.mixedreality.toolkit.extensions": "2.8.3"
+        "com.microsoft.mixedreality.toolkit.foundation": "2.8.2",
+        "com.microsoft.mixedreality.toolkit.extensions": "2.8.2"
       }
     },
     "com.microsoft.mixedreality.toolkit.extensions": {
@@ -18,11 +18,11 @@
       }
     },
     "com.microsoft.mixedreality.toolkit.foundation": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.8.3.tgz",
+      "version": "file:MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
-        "com.microsoft.mixedreality.toolkit.standardassets": "2.8.3"
+        "com.microsoft.mixedreality.toolkit.standardassets": "2.8.2"
       }
     },
     "com.microsoft.mixedreality.toolkit.standardassets": {
@@ -34,7 +34,7 @@
       }
     },
     "com.unity.collab-proxy": {
-      "version": "2.0.0",
+      "version": "2.0.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -117,7 +117,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.31",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
